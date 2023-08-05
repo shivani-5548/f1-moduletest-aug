@@ -6,35 +6,25 @@ Description
 This is a clone of the Codevo e-commerce website, which is focused on men and women wear shopping. The project is built using HTML, CSS, and Bootstrap and is completely responsive to different screen sizes and devices.
 
 Website Preview
-Link to Live Demo
+
 
 Features
 Responsive design for seamless user experience on various devices.
 Home page showcasing featured products and categories.
 Product pages with detailed information and image galleries.
-Installation and Usage
-Clone the repository:
-git clone https://github.com/voidsoul-host/Frontend-1-Module.git
-Open the project folder:
-cd Frontend-1-Module
-Open index.html in your web browser to view the home page.
-Screenshots
-image
+Installation and Usages
 
-Mobile L image
 
-Tablet image
 
-Technologies Used
+#Technologies Used
 HTML
 CSS
 Bootstrap
-Credits
+#Credits
 Bootstrap - Frontend framework
-License
-This project is licensed under the MIT License
 
-Contact
+
+#Contact
 For any questions or feedback, please contact:
 
 shivani more
